@@ -4,7 +4,7 @@ function pesquisar(){
 let section = document.getElementById("resultados-pesquisa");
 console.log(section);
 
-let campoPesquisa = document.getElementById ("campo-pesquisa").value
+let campoPesquisa = document.getElementById ("campo-pesquisa").value;
 
 console.log(campoPesquisa)
 
