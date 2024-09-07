@@ -34,3 +34,5 @@ Este projeto web visa auxiliar na comparação de processadores AMD e Intel. O u
 * **Implementar filtros adicionais:** Permitir que o usuário filtre os resultados por fabricante, número de núcleos, etc.
 
 Feito com ajuda da Alura na Imersão com IA
+
+https://meu-projeto-final.vercel.app
