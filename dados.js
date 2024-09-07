@@ -2,13 +2,13 @@ let dados = [
     {
         titulo: "AMD Ryzen 9 7950X",
         descricao: "O AMD Ryzen 9 7950X é um processador de 16 núcleos e 32 threads, projetado para oferecer um desempenho excepcional em multitarefas e aplicações profissionais. Ele utiliza a arquitetura Zen 4 e possui um cache L3 de 64 MB.",
-        link: "https://www.amd.com/en/products/cpu/ryzen/7000",
+        link: "https://fixed-daphne-b7b.notion.site/Site-pessoal-9e919a2581994dca8b7a7d435618534b",
         tags:""
       },
       {
         titulo: "Intel Core i9-13900K",
         descricao: "O Intel Core i9-13900K é um processador de alta performance, ideal para gamers e criadores de conteúdo. Com 24 núcleos e 32 threads, ele oferece um desempenho excepcional em tarefas exigentes. Possui clock base de 3.00 GHz GHz e clock turbo de até 5.80 GHz.",
-        link: "https://ark.intel.com/content/www/us/en/ark/products/215559/intel-core-i9-13900k-processor.html",
+        link: "https://fixed-daphne-b7b.notion.site/Site-pessoal-9e919a2581994dca8b7a7d435618534b",
         tags:"performance"
     } ,
     {
@@ -30,3 +30,4 @@ let dados = [
         tags:"servidor"
     } ,// indice 4
 ];
+// links são ficticios 
